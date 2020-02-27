@@ -1,0 +1,6 @@
+print("="*100)
+print("Bem vindo ao programa de gereciamento de vendas!!!")
+print("="*100)
+print("O que deseja fazer???\n1-Visualizar estoque \n2-Cadastrar/Editar produtos")
+print("3-Realisar venda \n4-Excluir produtos \n5-Sair")
+input("Digite sua opção: ")

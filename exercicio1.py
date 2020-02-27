@@ -1,0 +1,6 @@
+print("="*100)
+print("Bem vindo ao programa de gereciamento de Alunos e Notas!!!")
+print("="*100)
+print("O que deseja fazer???\n1-Visualizar alunos cadastrados \n2-Cadastrar/Editar aluno")
+print("3-Cadastrar/Editar notas \n4-Excluir aluno \n5-Sair")
+input("Digite sua opção: ")

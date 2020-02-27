@@ -1,0 +1,5 @@
+Peter Oliveira Parker,  5.50,  8.00,  6.00 
+Barry Francisco Allen,  7.50,  4.30,  6.00 
+Oliver da Silva Queen,  3.50,  5.00,  6.00 
+Bruce dos Santos Wayne, 10.00, 10.00, 10.00 
+Tony Aparecido Stark, 10.00, 10.00, 10.00 

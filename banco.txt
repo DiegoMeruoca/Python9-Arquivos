@@ -1,0 +1,5 @@
+1527, Peter Oliveira Parker,  140.00,1234 
+2231, Barry Francisco Allen, 1250.00,4321 
+2971, Oliver da Silva Queen, 2200.00,5678 
+3313, Bruce dos Santos Wayne, 2900.00,8765 
+3327, Tony Aparecido Stark, 2500.00,0 
